@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ChineseZodiac",
+            "request": "launch",
+            "mainClass": "ChineseZodiac",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "CircleCalculator",
+            "request": "launch",
+            "mainClass": "CircleCalculator",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "artikyıl",
+            "request": "launch",
+            "mainClass": "artikyıl",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "asal_sayi",
+            "request": "launch",
+            "mainClass": "asal_sayi",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "atmproject",
+            "request": "launch",
+            "mainClass": "atmproject",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "burctakvimi",
+            "request": "launch",
+            "mainClass": "burctakvimi",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "desene_gore",
+            "request": "launch",
+            "mainClass": "desene_gore",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "ebob_ekok",
+            "request": "launch",
+            "mainClass": "ebob_ekok",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "fibo",
+            "request": "launch",
+            "mainClass": "fibo",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "improved_calculator",
+            "request": "launch",
+            "mainClass": "improved_calculator",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "login",
+            "request": "launch",
+            "mainClass": "login",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loop10",
+            "request": "launch",
+            "mainClass": "loop10",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops1",
+            "request": "launch",
+            "mainClass": "loops1",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops12",
+            "request": "launch",
+            "mainClass": "loops12",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops13",
+            "request": "launch",
+            "mainClass": "loops13",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops2",
+            "request": "launch",
+            "mainClass": "loops2",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops3",
+            "request": "launch",
+            "mainClass": "loops3",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops4",
+            "request": "launch",
+            "mainClass": "loops4",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops5",
+            "request": "launch",
+            "mainClass": "loops5",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops6",
+            "request": "launch",
+            "mainClass": "loops6",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops7",
+            "request": "launch",
+            "mainClass": "loops7",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops8",
+            "request": "launch",
+            "mainClass": "loops8",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "loops9",
+            "request": "launch",
+            "mainClass": "loops9",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "methods1",
+            "request": "launch",
+            "mainClass": "methods1",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "polindrom_number",
+            "request": "launch",
+            "mainClass": "polindrom_number",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "siralama",
+            "request": "launch",
+            "mainClass": "siralama",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "sınıfgecme",
+            "request": "launch",
+            "mainClass": "sınıfgecme",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "tempature",
+            "request": "launch",
+            "mainClass": "tempature",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "us_al",
+            "request": "launch",
+            "mainClass": "us_al",
+            "projectName": "Java_exercise_e87d4b6d"
+        }
+    ]
+}
