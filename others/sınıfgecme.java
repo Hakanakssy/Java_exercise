@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class sınıfgecme {
     public static void main(String[] args) {
-        try (Scanner read = new Scanner(System.in)) {
+         Scanner read = new Scanner(System.in);
             int mat, fiz, kim, tur, muzik;
             int n=5;
             System.out.println("Matematik notunuzu giriniz;");
@@ -27,12 +27,9 @@ public class sınıfgecme {
              Double ortalama= (double) ((mat+fiz+kim+tur+muzik)/n);
              
              if (ortalama<55){System.out.println("Kaldınız: "+ortalama);}
-             else {System.out.println("Geçtiniz: "+ortalama);}
-        }
-        catch (ArithmeticException hepsisifir) {
-            
-            System.out.println("Kaydını sildir bro");
-        }
+             else {System.out.println("Geçtiniz: "+ortalama+"\n Kaydını sildir bro" );}
+                
+        
         
     }
 }

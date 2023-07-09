@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "my_app",
+            "request": "launch",
+            "mainClass": "my_app",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "metodlar",
+            "request": "launch",
+            "mainClass": "metodlar",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "deneme",
+            "request": "launch",
+            "mainClass": "deneme",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
