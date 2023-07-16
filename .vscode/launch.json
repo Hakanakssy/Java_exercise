@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oop_tekrar.polymorphism.Main",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "kutuphane_bilgi_sis.Main",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
             "name": "my_app",
             "request": "launch",
             "mainClass": "my_app",
