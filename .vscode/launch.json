@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "arraylistDemo.arrayListWithClass.Main",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "Arrayler",
+            "request": "launch",
+            "mainClass": "arraylistDemo.Arrayler",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "arraylistDemo.Main",
+            "projectName": "Java_exercise_e87d4b6d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "oop_tekrar.polymorphism.Main",
             "projectName": "Java_exercise_e87d4b6d"
         },
